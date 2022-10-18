@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L36 0L36 36L0 36L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Delete-Ícone">
+    <path d="M0 0L36 0L36 36L0 36L0 0Z" id="Fundo" fill="#ffffff" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M14.6162 2.25C12.7705 2.25 11.25 3.77051 11.25 5.61621L11.25 6.75L4.5 6.75L4.5 9L6.75 9L6.75 28.125C6.75 29.9883 8.26172 31.5 10.125 31.5L23.625 31.5C25.4883 31.5 27 29.9883 27 28.125L27 9L29.25 9L29.25 6.75L22.5 6.75L22.5 5.61621C22.5 3.77051 20.9795 2.25 19.1338 2.25L14.6162 2.25ZM14.6162 4.5L19.1338 4.5C19.7666 4.5 20.25 4.9834 20.25 5.61621L20.25 6.75L13.5 6.75L13.5 5.61621C13.5 4.9834 13.9834 4.5 14.6162 4.5L14.6162 4.5ZM11.25 11.25L13.5 11.25L13.5 27L11.25 27L11.25 11.25ZM15.75 11.25L18 11.25L18 27L15.75 27L15.75 11.25ZM20.25 11.25L22.5 11.25L22.5 27L20.25 27L20.25 11.25Z" id="Forma" fill="#BDBDBD" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
